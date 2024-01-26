@@ -8,6 +8,8 @@ Originally created in **September 2021**.
 This was a follow up to my LOWREZ 2021 submission, although I made this in PICO-8 instead.  
 There are all the basics of unit moving and attacking, but it never got past that.
 
+The code indentation may be a little weird since I wrote this in Notepad++, where I kept the PICO-8 console style of having indents be one space (thus, I used spaces and tabs interchangably).
+
 ---
 
 ### Controls
